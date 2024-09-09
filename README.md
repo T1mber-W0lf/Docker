@@ -3,7 +3,7 @@
 
 
 1. Після того як ми встановили докер, нам потрібно переконатися що все встановилося корректно, можна це зробити за допомогою команди
-docker run -d -p 8080:80 docker/welcome-to-docker та перейдіть до сайту http://локальный хост:8080
+docker run -d -p 8080:80 docker/welcome-to-docker та перейдіть до сайту http://localhost:8080
 
 [screenshots/photo_5_2024-09-09_21-49-46.jpg](https://github.com/T1mber-W0lf/Docker/blob/main/screenshots/photo_5_2024-09-09_21-49-46.jpg)
 
